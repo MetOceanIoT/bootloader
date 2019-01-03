@@ -1,1 +1,1 @@
-# bootloader
+Bootloader for the EdgePro
